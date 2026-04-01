@@ -40,7 +40,7 @@ Agent 接到指令后会自动：
 
 ### 🚀 怎么用上它？
 超简单，对你的 Agent 说：
-帮我安装 news-collector skill，仓库地址是 https://github.com/yourname/news-collector
+帮我安装 news-collector skill，将仓库地址发送给agent
 Agent 会自动下载、检查环境、注册指令。需要的环境：
 Python 3.8+
 requests、feedparser 库
